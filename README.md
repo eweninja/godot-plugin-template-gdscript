@@ -7,7 +7,7 @@ If you want to use C# version of template go to [Godot Plugin Template in C#](ht
 ## How to start creating?
 
 1. Create project in Godot 4.
-2. Create `res://addods` directory.
+2. Create `res://addons` directory.
 3. Open Terminal or CMD and `cd` into addons directory, for example `cd C:\godot-projects\my-project-1`.
 4. Clone this repository: `git clone https://github.com/eweninja/godot-plugin-template-gdscript`.
 5. Rename directory as you want to.
