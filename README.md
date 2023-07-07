@@ -2,6 +2,8 @@
 
 Simple Godot 4 plugin template in GDScript.
 
+If you want to use C# version of template go to [Godot Plugin Template in C#](https://github.com/eweninja/godot-plugin-template-csharp).
+
 ## How to start creating?
 
 1. Create project in Godot 4.
